@@ -15,4 +15,24 @@ html {
 
 body {
   margin-bottom: 60px;
+  background: #1f1f1e;
+  color: #ffffff;
+}
+
+#svg2 {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+#zg-logo {
+    position: absolute;
+    top: 5vh;
+    left: 0;
+    z-index: -100;
+    max-height: 90vh;
+}
+
+a {
+    color: springgreen;
+    text-decoration: underline;
 }
